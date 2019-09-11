@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\JYL\Desktop\kollus-jwt\target\classes
+Main-Class: kollus.jwt.gui.guiFrame
+
